@@ -1,13 +1,13 @@
 # Word Count and Non-English Word Detection
 
 ## Project Overview
-This project analyzes text files to extract and count the occurrences of words, as well as identify non-English words using the `SpellChecker` library. The script processes the text data, providing insights into both English and non-English word usage.
+This project analyzes text files to extract words, count their occurrences, and identify non-English words using the SpellChecker library. The script processes the input text and provides insights into both English and non-English word usage.
 
 ## Features
-- **Word Extraction**: Extracts all words from the specified text file.
-- **Word Count**: Counts the occurrences of each word.
-- **Non-English Word Detection**: Identifies and counts non-English words.
-- **Sorted Output**: Outputs results sorted by word frequency.
+- **Word Extraction**: Extracts all words from a specified text file.
+- **Word Counting**: Counts the frequency of each extracted word.
+- **Non-English Word Detection**: Identifies and counts words that are not recognized as English.
+- **Sorted Output**: Displays results sorted by word frequency for better readability.
 
 ## Getting Started
 
